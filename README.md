@@ -1,5 +1,7 @@
 # LBYARCH-x86-C-Interface-Programming-Project
-Submission of a project for LBYARCH
+Submitted by:
+JACELA, EUGO PASTORPIDE
+PANGAN, VINCE VERGEL ROSALES 
 
 ## How to Build and Run
 1. **Ensure all files are in the same folder.**
